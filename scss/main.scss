@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: inter;
+}
+@font-face {
+  font-family:inter ;
+  src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+@import "./partial/xxl.scss";
+@import "./partial/xl.scss";
+@import "./partial/lg.scss";
+@import "./partial/md.scss";
+@import "./partial/sm.scss";
+@import "./partial/xs.scss";

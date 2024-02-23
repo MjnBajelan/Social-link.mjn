@@ -1,0 +1,16 @@
+{
+  "name": "002social-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss/ -o css/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.71.1"
+  }
+}
